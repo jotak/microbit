@@ -9,3 +9,5 @@ Microbit projects with kids
 - Télécommande (robot): https://makecode.microbit.org/_d34XUjCwbgat
 - Accéléromètre: https://makecode.microbit.org/_VpkD1T1cL3Wd
 - Parcours bitbot: https://makecode.microbit.org/_Kku6gj42VewK
+- Rotate neopixels: https://makecode.microbit.org/_ivU59yAsJ05a
+- Servo controlled: https://makecode.microbit.org/_9MeX5JEidKi6
